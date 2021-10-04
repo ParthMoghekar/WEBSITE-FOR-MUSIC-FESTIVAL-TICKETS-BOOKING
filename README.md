@@ -1,4 +1,4 @@
-# website
+# WEBSITE FOR BOOKING OF MUSIC FESTIWAL
 This website is for music festival ticket booking
 FEATURES:
 registration (making an account )
